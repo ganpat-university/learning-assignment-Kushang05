@@ -1,0 +1,37 @@
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\Geometric Shape Calc\Geometric Shape Calc\obj\Debug\net5.0\Geometric Shape Calc.csproj.AssemblyReference.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\Geometric Shape Calc\Geometric Shape Calc\obj\Debug\net5.0\Geometric Shape Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\Geometric Shape Calc\Geometric Shape Calc\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfoInputs.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\Geometric Shape Calc\Geometric Shape Calc\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfo.cs
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\Geometric Shape Calc\Geometric Shape Calc\obj\Debug\net5.0\Geometric Shape Calc.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.csproj.AssemblyReference.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfoInputs.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfo.cs
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.exe
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.deps.json
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.runtimeconfig.json
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.runtimeconfig.dev.json
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.dll
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\ref\Geometric Shape Calc.dll
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.pdb
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.dll
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\ref\Geometric Shape Calc.dll
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.pdb
+D:\ASSIGNMENT\C# Assignemt_1\Assignment-1\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.genruntimeconfig.cache
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.exe
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.deps.json
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.runtimeconfig.json
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.runtimeconfig.dev.json
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.dll
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\ref\Geometric Shape Calc.dll
+D:\Tranning Practice\C#\Assignment-2\bin\Debug\net5.0\Geometric Shape Calc.pdb
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.csproj.AssemblyReference.cache
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfoInputs.cache
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.AssemblyInfo.cs
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.csproj.CoreCompileInputs.cache
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.dll
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\ref\Geometric Shape Calc.dll
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.pdb
+D:\Tranning Practice\C#\Assignment-2\obj\Debug\net5.0\Geometric Shape Calc.genruntimeconfig.cache
