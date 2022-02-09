@@ -1,0 +1,15 @@
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.exe
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.deps.json
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.runtimeconfig.json
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.runtimeconfig.dev.json
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.dll
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\ref\6-MethodOveroading.dll
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\bin\Debug\net5.0\6-MethodOveroading.pdb
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.AssemblyInfoInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.AssemblyInfo.cs
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.csproj.CoreCompileInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.dll
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\ref\6-MethodOveroading.dll
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.pdb
+D:\Tranning Practice\C#\1-HelloWorld\6-MethodOveroading\obj\Debug\net5.0\6-MethodOveroading.genruntimeconfig.cache
