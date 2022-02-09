@@ -1,0 +1,15 @@
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.exe
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.deps.json
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.dll
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\bin\Debug\net5.0\Indexer.pdb
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.dll
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.pdb
+D:\Tranning Practice\C#\1-HelloWorld\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache
