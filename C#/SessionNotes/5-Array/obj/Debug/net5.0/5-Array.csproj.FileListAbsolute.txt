@@ -1,0 +1,15 @@
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.exe
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.deps.json
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.runtimeconfig.json
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.runtimeconfig.dev.json
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.dll
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\ref\5-Array.dll
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\bin\Debug\net5.0\5-Array.pdb
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.AssemblyInfoInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.AssemblyInfo.cs
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.csproj.CoreCompileInputs.cache
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.dll
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\ref\5-Array.dll
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.pdb
+D:\Tranning Practice\C#\1-HelloWorld\5-Array\obj\Debug\net5.0\5-Array.genruntimeconfig.cache
